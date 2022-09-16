@@ -21,6 +21,10 @@ blocks:
       alt: Tina
     color: default
     _template: hero
+  - body: |+
+      ![](/uploads/tina-cloud-starter-preview.png)
+
+    _template: content
   - items:
       - icon:
           color: red
